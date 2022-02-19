@@ -1,0 +1,28 @@
+body {
+    background-color: green;
+    Text-align: center;
+}
+h1 {
+    font-size: 50px;
+    margin-top: 50px; 
+    margin-bottom: 10px;
+    color: yellow;
+}
+p {
+    font-size: 30px;
+    font-weight: bold;
+    Text-align: center;
+    color:darkgoldenrod;
+}
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    Text-align: center;
+    text-decoration-color:green ;
+    background-color: yellow;
+    width: 150px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
